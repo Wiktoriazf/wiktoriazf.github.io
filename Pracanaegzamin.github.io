@@ -23,7 +23,7 @@
 <body>
 <p>Płyta głóna łączy osprzęt (resztę urządzeń w komputerze), rozprowadza energię elektryczną z zasilacza oraz określa rodzaje urządzeń pamięci masowej, moduły pamięci i karty graficzne (pośród innych kart rozszerzeń), które można podłączyć do komputera.</p>
 <p>Procesor to jeden z ważniejszych podzespołów z komputera. Bez niego nie byłoby możliwe przeprowadzenie jakiegokolwiek procesu. Pełni rolę mózgu całego urządzenia.</p>
-<p>Pamięć Ram jest zasobem dzięki, któremy komputer działa szybciej i płynniej. Jest niezbędny do tego byśmy mogli krzystać z pobranych aplikacji, tworzyć coś w nich itp.</p>
+<p>Pamięć Ram jest zasobem dzięki, któremu komputer działa szybciej i płynniej. Jest niezbędny do tego byśmy mogli krzystać z pobranych aplikacji, tworzyć coś w nich itp.</p>
 <p>CD-ROM Są to zwykłe płyty CD, które zawierają dane tylko do odczytu, takie jak muzyka, pliki z danymi lub oprogramowanie</p>
 <p>Stacja dyskietek urządzenie peryferyjne komputera przeznaczone do obsługi jednego z rodzajów zewnętrznej pamięci komputerowej, jakim jest dyskietka.</p>
 <p>Dysk twardy to rodzaj pamięci masowej, która zapisuje, przechowuje i przetwarza dane. Dysk twardy stosuje się przede wszystkim w laptopach, komputerach, konsolach do gier i nagrywarkach filmów. Miniaturowe wersje są wykorzystywane również w niektórych cyfrowych kamerach wideo.</p>
